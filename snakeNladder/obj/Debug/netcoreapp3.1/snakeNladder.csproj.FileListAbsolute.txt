@@ -1,0 +1,13 @@
+D:\gitdemo2\snakeNladder\bin\Debug\netcoreapp3.1\snakeNladder.exe
+D:\gitdemo2\snakeNladder\bin\Debug\netcoreapp3.1\snakeNladder.deps.json
+D:\gitdemo2\snakeNladder\bin\Debug\netcoreapp3.1\snakeNladder.runtimeconfig.json
+D:\gitdemo2\snakeNladder\bin\Debug\netcoreapp3.1\snakeNladder.runtimeconfig.dev.json
+D:\gitdemo2\snakeNladder\bin\Debug\netcoreapp3.1\snakeNladder.dll
+D:\gitdemo2\snakeNladder\bin\Debug\netcoreapp3.1\snakeNladder.pdb
+D:\gitdemo2\snakeNladder\obj\Debug\netcoreapp3.1\snakeNladder.csproj.AssemblyReference.cache
+D:\gitdemo2\snakeNladder\obj\Debug\netcoreapp3.1\snakeNladder.AssemblyInfoInputs.cache
+D:\gitdemo2\snakeNladder\obj\Debug\netcoreapp3.1\snakeNladder.AssemblyInfo.cs
+D:\gitdemo2\snakeNladder\obj\Debug\netcoreapp3.1\snakeNladder.csproj.CoreCompileInputs.cache
+D:\gitdemo2\snakeNladder\obj\Debug\netcoreapp3.1\snakeNladder.dll
+D:\gitdemo2\snakeNladder\obj\Debug\netcoreapp3.1\snakeNladder.pdb
+D:\gitdemo2\snakeNladder\obj\Debug\netcoreapp3.1\snakeNladder.genruntimeconfig.cache
